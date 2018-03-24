@@ -1,21 +1,25 @@
 {
-  "name": "passport-github2",
+  "name": "passport-iveryone",
   "version": "0.1.11",
-  "description": "GitHub authentication strategy for Passport.",
+  "description": "iVeryOne authentication strategy for Passport.",
   "keywords": [
     "passport",
-    "github",
+    "iveryone",
     "auth",
     "authn",
     "authentication",
     "identity"
   ],
   "author": {
-    "name": "Jared Hanson",
-    "email": "jaredhanson@gmail.com",
-    "url": "http://www.jaredhanson.net/"
+    "name": "Leask Wong",
+    "email": "i@leaskh.com",
+    "url": "http://leaskh.com"
   },
   "contributors": [
+    {
+      "name": "Jared Hanson",
+      "email": "jaredhanson@gmail.com",
+    },
     {
       "name": "Fred Chien",
       "email": "cfsghost@gmail.com"
@@ -23,10 +27,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/cfsghost/passport-github.git"
+    "url": "http://github.com/Leask/passport-iveryone.git"
   },
   "bugs": {
-    "url": "http://github.com/cfsghost/passport-github/issues"
+    "url": "http://github.com/Leask/passport-iveryone/issues"
   },
   "licenses": [
     {

@@ -1,4 +1,4 @@
-# Passport-GitHub2
+# Passport-iVeryOne
 
 The author of Passport-Github has not maintained the original module for a long time. Features in his module don't work since Github upgraded their API to version 3.0.  We forked it and re-published it to NPM with a new name `passport-github2`.
 
@@ -52,7 +52,7 @@ application:
 app.get('/auth/github',
   passport.authenticate('github', { scope: [ 'user:email' ] }));
 
-app.get('/auth/github/callback', 
+app.get('/auth/github/callback',
   passport.authenticate('github', { failureRedirect: '/login' }),
   function(req, res) {
     // Successful authentication, redirect home.
