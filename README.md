@@ -14,7 +14,7 @@ unobtrusively integrated into any application or framework that supports
 ## Installation
 
 ```shell
-$ npm install passport-github2
+$ npm install passport-iveryone
 ```
 
 ## Usage
