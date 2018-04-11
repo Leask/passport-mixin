@@ -1,6 +1,6 @@
 {
   "name": "passport-iveryone",
-  "version": "0.1.20",
+  "version": "0.1.21",
   "description": "iVeryOne authentication strategy for Passport.",
   "keywords": [
     "passport",
