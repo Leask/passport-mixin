@@ -1,10 +1,10 @@
 {
-  "name": "passport-iveryone",
+  "name": "passport-mixin",
   "version": "0.1.23",
-  "description": "iVeryOne authentication strategy for Passport.",
+  "description": "Mixin authentication strategy for Passport.",
   "keywords": [
     "passport",
-    "iveryone",
+    "mixin",
     "auth",
     "authn",
     "authentication",
@@ -27,10 +27,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/Leask/passport-iveryone.git"
+    "url": "http://github.com/Leask/passport-mixin.git"
   },
   "bugs": {
-    "url": "http://github.com/Leask/passport-iveryone/issues"
+    "url": "http://github.com/Leask/passport-mixin/issues"
   },
   "licenses": [
     {

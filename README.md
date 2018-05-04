@@ -1,4 +1,4 @@
-# Passport-iVeryOne
+# Passport-Mixin
 
 The author of Passport-Github has not maintained the original module for a long time. Features in his module don't work since Github upgraded their API to version 3.0.  We forked it and re-published it to NPM with a new name `passport-github2`.
 
@@ -14,7 +14,7 @@ unobtrusively integrated into any application or framework that supports
 ## Installation
 
 ```shell
-$ npm install passport-iveryone
+$ npm install passport-mixin
 ```
 
 ## Usage
@@ -83,4 +83,3 @@ $ make test
 [The MIT License](http://opensource.org/licenses/MIT)
 
 Copyright (c) 2011-2013 Jared Hanson <[http://jaredhanson.net/](http://jaredhanson.net/)>
-
